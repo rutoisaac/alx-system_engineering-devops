@@ -1,1 +1,1 @@
-SU betty It changes user to betty
+SHELL PERMISSION SCRIPTS
