@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "whoami"  printf " Hello user"
+"whoami"  printf " Hello user"
